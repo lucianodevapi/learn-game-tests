@@ -1,7 +1,20 @@
-# Getting Started
+# Command git
+
+- Docker
+- Docker Compose
+- Spring Web
+- Spring JPA
+- Spring Security
+- Java 8+
+- Flyway
+- JUnit and Mokito
 
 ### Reference Documentation
-For further reference, please consider the following sections:
+- git clone https://github.com/lucianodevapi/learn-game-tests.git
+- git status
+- git add .
+- git commit -m "first commit"
+- git push origin main
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.7.2/maven-plugin/reference/html/)
